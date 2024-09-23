@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Rave, I'm a 15 year old Java developer.
+I just started learning java
+
+![ddd](rave.jpg)
 
 <!--
 **Rav1non/Rav1non** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
