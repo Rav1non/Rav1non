@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 My name is Rave, I'm a 15 year old Java developer.
 I just started learning java
 
